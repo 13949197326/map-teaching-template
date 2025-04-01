@@ -1,0 +1,9 @@
+{
+  "name": "MCP DevContainer",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}
